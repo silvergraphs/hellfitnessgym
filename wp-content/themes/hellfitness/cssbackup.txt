@@ -1,0 +1,7 @@
+#skenav a, #logo #site-description {
+    color: #ffffff;
+}
+
+#skenav ul ul.sub-menu li.current_page_item > a, #skenav ul ul.sub-menu li.current-menu-ancestor > a, #skenav ul ul.sub-menu li.current-menu-item > a, #skenav ul ul.sub-menu li.current-menu-parent > a, #skenav ul ul.sub-menu li:hover > a, #header-top .dropdown-menu.langs li:hover a {
+    color: #ffffff;
+}
